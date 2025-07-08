@@ -1,1 +1,1 @@
-[![Xavier Griffith Banner](xavier_griffith_banner.png)](http://xaviergriffith.com/)
+[![Xavier Griffith Banner](xavier_griffith_banner.png)](https://xaviergriffith.com/)
